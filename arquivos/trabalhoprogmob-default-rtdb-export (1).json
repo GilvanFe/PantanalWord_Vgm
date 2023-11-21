@@ -1,0 +1,204 @@
+{
+  "animalLevel1": {
+    "-NY_DuAyJKzzzHehyf6d": {
+      "id": 0,
+      "nome": "Capivara"
+    },
+    "-NY_E3qL1mckaMIdm3UO": {
+      "id": 1,
+      "nome": "Tucano"
+    },
+    "-NY_E9WtLurVYuh1shlU": {
+      "id": 2,
+      "nome": "Onça"
+    },
+    "-NY_ECCjzq6MkAcE3GW7": {
+      "id": 3,
+      "nome": "Arara"
+    },
+    "-NY_EDcDJGjIqswQvuTu": {
+      "id": 4,
+      "nome": "Tuiuiú"
+    },
+    "-NY_EFQtPJguIZjGEXEC": {
+      "id": 5,
+      "nome": "Jacaré"
+    },
+    "-NY_EGcGQQMU69pKAPEd": {
+      "id": 6,
+      "nome": "Anta"
+    },
+    "-NY_EHpecbCDoQwA6-Yh": {
+      "id": 7,
+      "nome": "Tamanduá"
+    },
+    "-NY_EJAOH_RcnkrmVF7e": {
+      "id": 8,
+      "nome": "Sucuri"
+    }
+  },
+  "animalLevel2": {
+    "-NYdnqbWYk9-EgJ0BJpl": {
+      "id": 0,
+      "nome": "Capivara",
+      "nomeIncompleto": "Ca__vara",
+      "silaba": "pi"
+    },
+    "-NYdnqb_SYHdWrMJkc6B": {
+      "id": 1,
+      "nome": "Tucano",
+      "nomeIncompleto": "Tuca__",
+      "silaba": "no"
+    },
+    "-NYdnqba1xr49vknB9Hs": {
+      "id": 2,
+      "nome": "Onça",
+      "nomeIncompleto": "__ça",
+      "silaba": "On"
+    },
+    "-NYdnqba1xr49vknB9Ht": {
+      "id": 3,
+      "nome": "Arara",
+      "nomeIncompleto": "Ara__",
+      "silaba": "ra"
+    },
+    "-NYdnqba1xr49vknB9Hu": {
+      "id": 4,
+      "nome": "Tuiuiú",
+      "nomeIncompleto": "Tu__iú",
+      "silaba": "iu"
+    },
+    "-NYdnqbbSINdjSLnDmUe": {
+      "id": 5,
+      "nome": "Jacaré",
+      "nomeIncompleto": "__caré",
+      "silaba": "Ja"
+    },
+    "-NYdnqbbSINdjSLnDmUf": {
+      "id": 6,
+      "nome": "Anta",
+      "nomeIncompleto": "An__",
+      "silaba": "ta"
+    },
+    "-NYdnqbbSINdjSLnDmUg": {
+      "id": 7,
+      "nome": "Tamanduá",
+      "nomeIncompleto": "Ta___duá",
+      "silaba": "man"
+    },
+    "-NYdnqbcRtepWqUEJoro": {
+      "id": 8,
+      "nome": "Sucuri",
+      "nomeIncompleto": "Sucu__",
+      "silaba": "ri"
+    }
+  },
+  "animalLevel3": {
+    "-NYis_nhPyLkzu2SpR7J": {
+      "id": 0,
+      "nome": "CAPIVARA",
+      "numSilabas": 4,
+      "silabas": [
+        "CA",
+        "PI",
+        "VA",
+        "RA"
+      ]
+    },
+    "-NYisyGpfPvmAVWb8isx": {
+      "id": 1,
+      "nome": "TUCANO",
+      "numSilabas": 3,
+      "silabas": [
+        "TU",
+        "CA",
+        "NO"
+      ]
+    },
+    "-NYitHycaoxftEV3pbVo": {
+      "id": 2,
+      "nome": "ONÇA",
+      "numSilabas": 2,
+      "silabas": [
+        "ON",
+        "ÇA"
+      ]
+    },
+    "-NYitLVR4wUPPFzZNELf": {
+      "id": 3,
+      "nome": "ARARA",
+      "numSilabas": 3,
+      "silabas": [
+        "A",
+        "RA",
+        "RA"
+      ]
+    },
+    "-NYitP1hX4mqXph0oXFy": {
+      "id": 4,
+      "nome": "TUIUIÚ",
+      "numSilabas": 3,
+      "silabas": [
+        "TU",
+        "IU",
+        "IÚ"
+      ]
+    },
+    "-NYitRZ8AbkdG0Bbt8pi": {
+      "id": 5,
+      "nome": "JACARÉ",
+      "numSilabas": 3,
+      "silabas": [
+        "JA",
+        "CA",
+        "RÉ"
+      ]
+    },
+    "-NYitTpfKcIvQlMzkM2_": {
+      "id": 6,
+      "nome": "ANTA",
+      "numSilabas": 2,
+      "silabas": [
+        "AN",
+        "TA"
+      ]
+    },
+    "-NYitXwnpixaNKgh7-Um": {
+      "id": 7,
+      "nome": "TAMANDUÁ",
+      "numSilabas": 3,
+      "silabas": [
+        "TA",
+        "MAN",
+        "DUÁ"
+      ]
+    },
+    "-NYit_rQjGDw6XxXkNan": {
+      "id": 8,
+      "nome": "SUCURI",
+      "numSilabas": 3,
+      "silabas": [
+        "SU",
+        "CU",
+        "RI"
+      ]
+    }
+  },
+  "progresso": {
+    "-NYZ-LmxuD3X4S9I3M1W": {
+      "animaisJogadosLevel2": [
+        "Arara",
+        "Capivara",
+        "Tucano"
+      ],
+      "animaisJogadosLevel3": [
+        "TUIUIÚ",
+        "ANTA"
+      ],
+      "id": 0,
+      "progressoLevel1": 1,
+      "progressoLevel2": 2,
+      "progressoLevel3": 3
+    }
+  }
+}
