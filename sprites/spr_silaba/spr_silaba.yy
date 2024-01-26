@@ -23,7 +23,7 @@
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"02115d60-c419-4315-9a65-1ac7f3ddbf38","blendMode":0,"displayName":"default","isLocked":false,"opacity":60.0,"visible":true,},
   ],
   "nineSlice": null,
-  "origin": 3,
+  "origin": 4,
   "parent": {
     "name": "nivel1",
     "path": "folders/Sprites/nivel1.yy",
@@ -59,7 +59,7 @@
     ],
     "visibleRange": null,
     "volume": 1.0,
-    "xorigin": 0,
+    "xorigin": 32,
     "yorigin": 32,
   },
   "swatchColours": null,
