@@ -30,5 +30,6 @@ if _b2 != noone && esta_arrastando == false{
 
 if _b3 != noone && esta_arrastando == false{
 	gerencia_palavra.encaixou = true;
+	global.fase1_acertos +=1;
 	instance_deactivate_object(propria_silaba);
 }
