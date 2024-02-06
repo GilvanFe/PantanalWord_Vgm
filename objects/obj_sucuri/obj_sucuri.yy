@@ -8,8 +8,8 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "onca",
-    "path": "folders/Objects/nivel1/animais/onca.yy",
+    "name": "sucuri",
+    "path": "folders/Objects/nivel1/animais/sucuri.yy",
   },
   "parentObjectId": null,
   "persistent": false,

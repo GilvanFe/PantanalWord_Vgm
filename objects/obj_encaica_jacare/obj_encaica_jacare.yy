@@ -1,15 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_onca",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
-  ],
+  "name": "obj_encaica_jacare",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "onca",
-    "path": "folders/Objects/nivel1/animais/onca.yy",
+    "name": "jacare",
+    "path": "folders/Objects/nivel1/animais/jacare.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -28,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_2",
-    "path": "sprites/spr_2/spr_2.yy",
+    "name": "spr_encaixa_palavras",
+    "path": "sprites/spr_encaixa_palavras/spr_encaixa_palavras.yy",
   },
   "spriteMaskId": null,
   "visible": true,

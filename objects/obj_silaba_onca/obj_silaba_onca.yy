@@ -1,17 +1,18 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_onca",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
-  ],
+  "name": "obj_silaba_onca",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
     "name": "onca",
     "path": "folders/Objects/nivel1/animais/onca.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_silaba",
+    "path": "objects/obj_silaba/obj_silaba.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
@@ -28,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_2",
-    "path": "sprites/spr_2/spr_2.yy",
+    "name": "spr_silaba",
+    "path": "sprites/spr_silaba/spr_silaba.yy",
   },
   "spriteMaskId": null,
   "visible": true,
