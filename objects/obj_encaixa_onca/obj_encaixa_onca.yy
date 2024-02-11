@@ -9,7 +9,10 @@
     "name": "onca",
     "path": "folders/Objects/nivel1/animais/onca.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_encaixa_palavras",
+    "path": "objects/obj_encaixa_palavras/obj_encaixa_palavras.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

@@ -7,6 +7,7 @@ if _b1 != noone{
 	else if mouse_check_button_released(mb_left){
 		image_xscale = 1;
 		image_yscale = 1;
-		room_goto(Room_nivel1);
+		global.n1_fase = 1;
+		room_goto(Nivel1_fase1);
 	}
 }

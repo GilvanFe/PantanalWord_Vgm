@@ -4,12 +4,7 @@
   "name": "obj_gerencia_capivara",
   "eventList": [],
   "managed": true,
-  "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"animal_vinculado","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"value":"obj_capivara",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"palavra_completa","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"value":"\"capivara\"",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"palavra_incompleta","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"value":"\"ca__vara\"",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"silaba","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"value":"\"pi\"",},
-  ],
+  "overriddenProperties": [],
   "parent": {
     "name": "capivara",
     "path": "folders/Objects/nivel1/animais/capivara.yy",

@@ -4,7 +4,14 @@
   "name": "obj_silaba_onca",
   "eventList": [],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"nome_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"value":"\"ça\"",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"palavra_completa","path":"objects/obj_silaba/obj_silaba.yy",},"value":"\"onça\"",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"palavra_incompleta","path":"objects/obj_silaba/obj_silaba.yy",},"value":"\"on__\"",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"encaixa_palavra","path":"objects/obj_silaba/obj_silaba.yy",},"value":"obj_encaixa_onca",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"gerencia_palavra","path":"objects/obj_silaba/obj_silaba.yy",},"value":"obj_gerencia_onca",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"propria_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"value":"obj_silaba_onca",},
+  ],
   "parent": {
     "name": "onca",
     "path": "folders/Objects/nivel1/animais/onca.yy",

@@ -4,7 +4,12 @@
   "name": "obj_gerencia_onca",
   "eventList": [],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"animal_vinculado","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"value":"obj_onca",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"palavra_completa","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"value":"\"onça\"",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"palavra_incompleta","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"value":"\"on__\"",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"silaba","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"value":"\"ça\"",},
+  ],
   "parent": {
     "name": "onca",
     "path": "folders/Objects/nivel1/animais/onca.yy",

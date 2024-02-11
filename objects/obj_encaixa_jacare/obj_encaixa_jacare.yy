@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_encaica_jacare",
+  "name": "obj_encaixa_jacare",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -9,7 +9,10 @@
     "name": "jacare",
     "path": "folders/Objects/nivel1/animais/jacare.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "obj_encaixa_palavras",
+    "path": "objects/obj_encaixa_palavras/obj_encaixa_palavras.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

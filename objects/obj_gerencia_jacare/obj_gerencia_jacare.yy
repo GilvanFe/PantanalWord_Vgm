@@ -4,7 +4,12 @@
   "name": "obj_gerencia_jacare",
   "eventList": [],
   "managed": true,
-  "overriddenProperties": [],
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"animal_vinculado","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"value":"obj_jacare",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"palavra_completa","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"value":"\"jacaré\"",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"palavra_incompleta","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"value":"\"jaca__\"",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"silaba","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"value":"\"ré\"",},
+  ],
   "parent": {
     "name": "jacare",
     "path": "folders/Objects/nivel1/animais/jacare.yy",

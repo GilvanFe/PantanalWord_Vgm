@@ -5,12 +5,12 @@
   "eventList": [],
   "managed": true,
   "overriddenProperties": [
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"nome_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"value":"\"pi\"",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"palavra_completa","path":"objects/obj_silaba/obj_silaba.yy",},"value":"\"capivara\"",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"palavra_incompleta","path":"objects/obj_silaba/obj_silaba.yy",},"value":"\"ca__vara\"",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"encaixa_palavra","path":"objects/obj_silaba/obj_silaba.yy",},"value":"obj_encaica_jacare",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"gerencia_palavra","path":"objects/obj_silaba/obj_silaba.yy",},"value":"obj_gerencia_palavras",},
-    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"propria_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"value":"noone",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"nome_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"value":"\"ré\"",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"palavra_completa","path":"objects/obj_silaba/obj_silaba.yy",},"value":"\"jacaré\"",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"palavra_incompleta","path":"objects/obj_silaba/obj_silaba.yy",},"value":"\"jaca__\"",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"encaixa_palavra","path":"objects/obj_silaba/obj_silaba.yy",},"value":"obj_encaixa_jacare",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"gerencia_palavra","path":"objects/obj_silaba/obj_silaba.yy",},"value":"obj_gerencia_jacare",},
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"propria_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"value":"obj_silaba_jacare",},
   ],
   "parent": {
     "name": "jacare",
