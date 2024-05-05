@@ -12,9 +12,17 @@ x = display_get_width() / 2 - sprite_width / 2;
 y = popup_y;
 
 if mouse_check_button(mb_left){
-	var _b1 = instance_position(mouse_x,mouse_y,obj_popup1);
-	if (_b1 != noone){
-		room_goto_next();
+	if global.contador < 3 {
+		var _b1 = instance_position(mouse_x,mouse_y,obj_popup1);
+		if (_b1 != noone){
+			room_goto_next();
+		}
 	}
-
+	else if global.contador > 2 {
+		var _b1 = instance_position(mouse_x,mouse_y,obj_popup1);
+		if (_b1 != noone){
+			room_goto(Room2);
+		}
+		global.contador = 0;
+	}
 }

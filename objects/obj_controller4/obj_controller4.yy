@@ -1,17 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_contador_pontos",
+  "%Name":"obj_controller4",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_contador_pontos",
+  "name":"obj_controller4",
   "overriddenProperties":[],
   "parent":{
-    "name":"objeto_pai",
-    "path":"folders/Objects/nivel1/animais/objeto_pai.yy",
+    "name":"controller",
+    "path":"folders/Objects/controller.yy",
   },
   "parentObjectId":null,
   "persistent":false,

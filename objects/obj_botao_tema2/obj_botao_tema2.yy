@@ -1,17 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_contador_pontos",
+  "%Name":"obj_botao_tema2",
   "eventList":[
     {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_contador_pontos",
+  "name":"obj_botao_tema2",
   "overriddenProperties":[],
   "parent":{
-    "name":"objeto_pai",
-    "path":"folders/Objects/nivel1/animais/objeto_pai.yy",
+    "name":"botoes",
+    "path":"folders/Objects/botoes.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_botao_em_breve",
+    "path":"sprites/spr_botao_em_breve/spr_botao_em_breve.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

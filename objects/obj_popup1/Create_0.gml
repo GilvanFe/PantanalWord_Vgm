@@ -6,3 +6,4 @@ popup_y = 2100;
 popup_speed = 10; 
 // Define se o popup está visível
 popup_visible = true;
+
