@@ -3,12 +3,12 @@
 // Atualiza a posição do popup para fazê-lo subir gradualmente até a metade da tela
 if (popup_visible) {
     popup_y -= popup_speed;
-    if (popup_y <=(display_get_height() / 2) + 500) { // Quando o popup atingir a metade da tela
-        popup_y = (display_get_height() / 2) + 500; // Pare o popup no meio da tela
+    if (popup_y <=(display_get_gui_height() / 2) + 500) { // Quando o popup atingir a metade da tela
+        popup_y = (display_get_gui_height() / 2) + 500; // Pare o popup no meio da tela
     }
 }
 
-x = display_get_width() / 2 - sprite_width / 2;
+x = display_get_gui_width() - 70;
 y = popup_y;
 
 if mouse_check_button(mb_left){
