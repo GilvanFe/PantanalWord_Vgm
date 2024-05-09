@@ -5,10 +5,10 @@
   "managed":true,
   "name":"obj_gerencia_tuiuiu",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"animal_vinculado","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_tuiuiu",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"palavra_completa","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"tuiuiu\"",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"palavra_incompleta","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"tu__iu\"",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"silaba","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"iu\"",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"animal_vinculado","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_tuiuiu",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"palavra_completa","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"tuiuiu\"",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"palavra_incompleta","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"tu__iu\"",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"silaba","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"iu\"",},
   ],
   "parent":{
     "name":"tuiuiu",

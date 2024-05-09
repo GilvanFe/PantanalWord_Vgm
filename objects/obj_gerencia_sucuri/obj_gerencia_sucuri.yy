@@ -5,10 +5,10 @@
   "managed":true,
   "name":"obj_gerencia_sucuri",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"animal_vinculado","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_sucuri",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"palavra_completa","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"sucuri\"",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"silaba","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"su\"",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"palavra_incompleta","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"__curi\"",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"animal_vinculado","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_sucuri",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"palavra_completa","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"sucuri\"",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"silaba","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"su\"",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_gerencia_palavras","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"propertyId":{"name":"palavra_incompleta","path":"objects/obj_gerencia_palavras/obj_gerencia_palavras.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"__curi\"",},
   ],
   "parent":{
     "name":"sucuri",
