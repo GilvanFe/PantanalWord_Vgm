@@ -2,10 +2,17 @@
   "$GMSprite":"",
   "%Name":"spr_0",
   "bboxMode":0,
+<<<<<<< HEAD
   "bbox_bottom":299,
   "bbox_left":0,
   "bbox_right":299,
   "bbox_top":12,
+=======
+  "bbox_bottom":149,
+  "bbox_left":0,
+  "bbox_right":149,
+  "bbox_top":6,
+>>>>>>> teste3
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
@@ -16,7 +23,11 @@
   ],
   "gridX":0,
   "gridY":0,
+<<<<<<< HEAD
   "height":300,
+=======
+  "height":150,
+>>>>>>> teste3
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"68d3c31d-6d27-47fd-9082-9fc280434642","blendMode":0,"displayName":"default","isLocked":false,"name":"68d3c31d-6d27-47fd-9082-9fc280434642","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -76,7 +87,11 @@
     "visibleRange":null,
     "volume":1.0,
     "xorigin":0,
+<<<<<<< HEAD
     "yorigin":150,
+=======
+    "yorigin":75,
+>>>>>>> teste3
   },
   "swatchColours":null,
   "swfPrecision":2.525,
@@ -86,5 +101,9 @@
   },
   "type":0,
   "VTile":false,
+<<<<<<< HEAD
   "width":300,
+=======
+  "width":150,
+>>>>>>> teste3
 }

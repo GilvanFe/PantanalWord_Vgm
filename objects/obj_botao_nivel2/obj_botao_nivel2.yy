@@ -1,7 +1,13 @@
 {
   "$GMObject":"",
   "%Name":"obj_botao_nivel2",
+<<<<<<< HEAD
   "eventList":[],
+=======
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
+>>>>>>> teste3
   "managed":true,
   "name":"obj_botao_nivel2",
   "overriddenProperties":[],

@@ -33,7 +33,11 @@
     {"$GMObjectProperty":"","%Name":"palavra_incompleta","filters":[],"listItems":[],"multiselect":false,"name":"palavra_incompleta","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"\"________\"","varType":4,},
     {"$GMObjectProperty":"","%Name":"encaixa_palavra","filters":[],"listItems":[],"multiselect":false,"name":"encaixa_palavra","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_encaixa_palavras_lvl2","varType":5,},
     {"$GMObjectProperty":"","%Name":"gerencia_palavra","filters":[],"listItems":[],"multiselect":false,"name":"gerencia_palavra","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_gerencia_palavras_lvl2","varType":5,},
+<<<<<<< HEAD
     {"$GMObjectProperty":"","%Name":"propria_silaba","filters":[],"listItems":[],"multiselect":false,"name":"propria_silaba","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_silaba_capivara_lvl2","varType":5,},
+=======
+    {"$GMObjectProperty":"","%Name":"propria_silaba","filters":[],"listItems":[],"multiselect":false,"name":"propria_silaba","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"obj_silaba_lvl2","varType":5,},
+>>>>>>> teste3
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

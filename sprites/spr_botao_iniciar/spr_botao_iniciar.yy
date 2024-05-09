@@ -12,14 +12,22 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
+<<<<<<< HEAD
     {"$GMSpriteFrame":"","%Name":"2df37f56-808c-4777-9bfa-703972702152","name":"2df37f56-808c-4777-9bfa-703972702152","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+=======
+    {"$GMSpriteFrame":"","%Name":"615af23d-3fd8-4a84-9f49-2ccbdc2fe551","name":"615af23d-3fd8-4a84-9f49-2ccbdc2fe551","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+>>>>>>> teste3
   ],
   "gridX":0,
   "gridY":0,
   "height":70,
   "HTile":false,
   "layers":[
+<<<<<<< HEAD
     {"$GMImageLayer":"","%Name":"7ab296c5-640c-4cf1-8d34-0bf1173faa77","blendMode":0,"displayName":"default","isLocked":false,"name":"7ab296c5-640c-4cf1-8d34-0bf1173faa77","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+=======
+    {"$GMImageLayer":"","%Name":"5b8786e7-42c8-495f-81ea-e37b8699a1f1","blendMode":0,"displayName":"default","isLocked":false,"name":"5b8786e7-42c8-495f-81ea-e37b8699a1f1","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+>>>>>>> teste3
   ],
   "name":"spr_botao_iniciar",
   "nineSlice":null,
@@ -69,8 +77,13 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
+<<<<<<< HEAD
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2df37f56-808c-4777-9bfa-703972702152","path":"sprites/spr_botao_iniciar/spr_botao_iniciar.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"70b2ecc3-fd70-49a1-b103-35a12c75210f","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+=======
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"615af23d-3fd8-4a84-9f49-2ccbdc2fe551","path":"sprites/spr_botao_iniciar/spr_botao_iniciar.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"5de5e10d-e635-485e-8b43-6ea6adcb2cf8","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+>>>>>>> teste3
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -79,7 +92,11 @@
     "yorigin":35,
   },
   "swatchColours":null,
+<<<<<<< HEAD
   "swfPrecision":0.5,
+=======
+  "swfPrecision":2.525,
+>>>>>>> teste3
   "textureGroupId":{
     "name":"Default",
     "path":"texturegroups/Default",

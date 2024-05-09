@@ -7,13 +7,13 @@
 	global.n2_fase++;
 	
 		if global.n2_fase = 2 {
-			room_goto(Room2);
+			room_goto(Nivel2_fase2);
 			//room_goto(Nivel2_fase2);
 		}
 
 		if global.n2_fase = 3 {
-			room_goto(Room2);
-			//room_goto(Nivel2_fase3);	
+			//room_goto(Room2);
+			room_goto(Nivel2_fase3);	
 		}
 
 		if global.n2_fase = 4 {

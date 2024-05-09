@@ -9,12 +9,21 @@
   "managed":true,
   "name":"obj_silaba_anta",
   "overriddenProperties":[
+<<<<<<< HEAD
     {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"nome_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"an\"",},
     {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"palavra_completa","path":"objects/obj_silaba/obj_silaba.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"anta\"",},
     {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"palavra_incompleta","path":"objects/obj_silaba/obj_silaba.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"__ta\"",},
     {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"encaixa_palavra","path":"objects/obj_silaba/obj_silaba.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_encaixa_anta",},
     {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"gerencia_palavra","path":"objects/obj_silaba/obj_silaba.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_gerencia_anta",},
     {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"propria_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_silaba_anta",},
+=======
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"gerencia_palavra","path":"objects/obj_silaba/obj_silaba.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_gerencia_anta",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"propria_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_silaba_anta",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"encaixa_palavra","path":"objects/obj_silaba/obj_silaba.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_encaixa_palavras",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"nome_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"an\"",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"palavra_completa","path":"objects/obj_silaba/obj_silaba.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"anta\"",},
+    {"$GMOverriddenProperty":"","%Name":"","name":"","objectId":{"name":"obj_silaba","path":"objects/obj_silaba/obj_silaba.yy",},"propertyId":{"name":"palavra_incompleta","path":"objects/obj_silaba/obj_silaba.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"\"__ta\"",},
+>>>>>>> teste3
   ],
   "parent":{
     "name":"anta",
