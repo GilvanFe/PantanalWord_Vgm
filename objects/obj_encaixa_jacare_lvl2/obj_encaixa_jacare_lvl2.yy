@@ -1,15 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_botao_nivel2",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_encaixa_jacare_lvl2",
+  "eventList":[],
   "managed":true,
-  "name":"obj_botao_nivel2",
+  "name":"obj_encaixa_jacare_lvl2",
   "overriddenProperties":[],
   "parent":{
-    "name":"botoes",
-    "path":"folders/Objects/botoes.yy",
+    "name":"jacare",
+    "path":"folders/Objects/nivel2/animais/jacare.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_botao_nivel2",
-    "path":"sprites/spr_botao_nivel2/spr_botao_nivel2.yy",
+    "name":"spr_encaixa_palavras",
+    "path":"sprites/spr_encaixa_palavras/spr_encaixa_palavras.yy",
   },
   "spriteMaskId":null,
   "visible":true,

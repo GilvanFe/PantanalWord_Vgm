@@ -1,15 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_botao_nivel2",
+  "%Name":"obj_tuiuiu_lvl2",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_botao_nivel2",
+  "name":"obj_tuiuiu_lvl2",
   "overriddenProperties":[],
   "parent":{
-    "name":"botoes",
-    "path":"folders/Objects/botoes.yy",
+    "name":"tuiuiu",
+    "path":"folders/Objects/nivel2/animais/tuiuiu.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_botao_nivel2",
-    "path":"sprites/spr_botao_nivel2/spr_botao_nivel2.yy",
+    "name":"spr_4",
+    "path":"sprites/spr_4/spr_4.yy",
   },
   "spriteMaskId":null,
   "visible":true,
