@@ -1,3 +1,1 @@
-if encaixou == true{
-	palavra_desenhada = palavra_completa;
-}
+event_inherited();
