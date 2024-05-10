@@ -4,11 +4,7 @@
   "eventList":[],
   "managed":true,
   "name":"obj_silaba_capivara_lvl2",
-  "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_silaba_lvl2","path":"objects/obj_silaba_lvl2/obj_silaba_lvl2.yy",},"propertyId":{"name":"encaixa_palavra","path":"objects/obj_silaba_lvl2/obj_silaba_lvl2.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_encaixa_capivara_lvl2",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_silaba_lvl2","path":"objects/obj_silaba_lvl2/obj_silaba_lvl2.yy",},"propertyId":{"name":"gerencia_palavra","path":"objects/obj_silaba_lvl2/obj_silaba_lvl2.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_gerencia_capivara_lvl2",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"obj_silaba_lvl2","path":"objects/obj_silaba_lvl2/obj_silaba_lvl2.yy",},"propertyId":{"name":"propria_silaba","path":"objects/obj_silaba_lvl2/obj_silaba_lvl2.yy",},"resource":null,"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"obj_silaba_capivara_lvl2",},
-  ],
+  "overriddenProperties":[],
   "parent":{
     "name":"capivara",
     "path":"folders/Objects/nivel2/animais/capivara.yy",

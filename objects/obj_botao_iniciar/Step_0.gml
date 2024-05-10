@@ -3,10 +3,11 @@ if _b1 != noone{
 	if mouse_check_button_pressed(mb_left){
 		image_xscale = 0.9;
 		image_yscale = 0.9;
+		audio_play_sound(Clique_3,10,false);
 	}
 	else if mouse_check_button_released(mb_left){
 		image_xscale = 1;
 		image_yscale = 1;
-		room_goto(Room2);
+		room_goto(Room3);
 	}
 }
