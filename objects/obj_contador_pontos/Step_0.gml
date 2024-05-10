@@ -9,5 +9,5 @@
 	}
 
 
-show_debug_message(global.contador);
+//show_debug_message(global.contador);
 
