@@ -7,3 +7,4 @@ popup_speed = 10;
 // Define se o popup está visível
 popup_visible = true;
 
+audio_play_sound(WIN_SOUND,10,false);

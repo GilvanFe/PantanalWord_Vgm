@@ -12,6 +12,7 @@ x = display_get_gui_width() - 70;
 y = popup_y;
 
 if mouse_check_button(mb_left){
+	audio_play_sound(Clique_1,10,false);
 	if global.contador < 3 {
 		var _b1 = instance_position(mouse_x,mouse_y,obj_popup1);
 		if (_b1 != noone){

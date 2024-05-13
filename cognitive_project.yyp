@@ -64,7 +64,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.0.137",
+    "IDEVersion":"2024.2.0.132",
   },
   "name":"cognitive_project",
   "resources":[
@@ -183,6 +183,7 @@
     {"id":{"name":"snd_em_jogo","path":"sounds/snd_em_jogo/snd_em_jogo.yy",},},
     {"id":{"name":"snd_menu","path":"sounds/snd_menu/snd_menu.yy",},},
     {"id":{"name":"Soltar","path":"sounds/Soltar/Soltar.yy",},},
+    {"id":{"name":"WIN_SOUND","path":"sounds/WIN_SOUND/WIN_SOUND.yy",},},
     {"id":{"name":"background_tela_lista","path":"sprites/background_tela_lista/background_tela_lista.yy",},},
     {"id":{"name":"background_tela_nivel","path":"sprites/background_tela_nivel/background_tela_nivel.yy",},},
     {"id":{"name":"background_tela_nivel3","path":"sprites/background_tela_nivel3/background_tela_nivel3.yy",},},

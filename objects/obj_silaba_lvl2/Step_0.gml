@@ -23,9 +23,10 @@ var _b2 = instance_position(x,y, obj_background);
 var _b3 = instance_position(x,y, encaixa_palavra);
 var _b4 = instance_position(x,y, obj_guarda_palavras);
 
-if _b2 != noone && esta_arrastando == false{
+if _b2 != noone && esta_arrastando == false && _b3 == noone{
 	x = posicao_inicial_x;
 	y = posicao_inicial_y;
+	audio_play_sound(Errou,10,false)
 }
 
 if _b3 != noone && esta_arrastando == false{
