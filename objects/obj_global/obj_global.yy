@@ -9,8 +9,8 @@
   "name":"obj_global",
   "overriddenProperties":[],
   "parent":{
-    "name":"controller",
-    "path":"folders/Objects/controller.yy",
+    "name":"Room1",
+    "path":"folders/Objects/controller/Room1.yy",
   },
   "parentObjectId":null,
   "persistent":true,

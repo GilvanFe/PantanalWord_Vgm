@@ -28,7 +28,7 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"pontos","filters":[],"listItems":[],"multiselect":false,"name":"pontos","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"4","varType":0,},
+    {"$GMObjectProperty":"","%Name":"pontos","filters":[],"listItems":[],"multiselect":false,"name":"pontos","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"4","varType":0,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

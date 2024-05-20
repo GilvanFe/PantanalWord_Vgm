@@ -9,8 +9,8 @@
   "name":"obj_controller_lvl2_1",
   "overriddenProperties":[],
   "parent":{
-    "name":"controller",
-    "path":"folders/Objects/controller.yy",
+    "name":"sala2",
+    "path":"folders/Objects/controller/sala2.yy",
   },
   "parentObjectId":null,
   "persistent":false,

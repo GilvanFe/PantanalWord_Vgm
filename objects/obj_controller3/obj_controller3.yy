@@ -9,8 +9,8 @@
   "name":"obj_controller3",
   "overriddenProperties":[],
   "parent":{
-    "name":"controller",
-    "path":"folders/Objects/controller.yy",
+    "name":"sala1",
+    "path":"folders/Objects/controller/sala1.yy",
   },
   "parentObjectId":null,
   "persistent":false,
